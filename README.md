@@ -3,7 +3,7 @@
 <h2 align="left"> 💫 About Me: </h2>
 
 - 👨‍💻 I am a **Computer Science Student** 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Go**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: **kochreka@usc.edu**
 - 😄 Pronouns: **she/her**
